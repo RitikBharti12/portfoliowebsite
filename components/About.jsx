@@ -18,13 +18,12 @@ export default function About() {
           About
         </motion.div>
         <div className="glass-card border border-white/10 p-8 shadow-panel">
-          <h2 className="text-3xl font-semibold text-white sm:text-4xl">Professional snapshot</h2>
+          <h2 className="text-3xl font-semibold text-white sm:text-4xl">About Me</h2>
           <p className="mt-6 max-w-3xl text-base leading-8 text-slate-300 sm:text-lg">
-            Ritik is an aspiring software engineer and B.Tech CSE student focused on building scalable,
-            responsive, and real-world software solutions. He has hands-on experience with frontend,
-            backend, databases, cloud deployment, and modern development tools. His work combines
-            thoughtful interface design with efficient application architecture to deliver polished
-            digital products.
+            I&apos;m Ritik Kumar Bharti, a final-year B.Tech CSE student who enjoys full-stack web
+            development and building real-world projects that solve practical problems. I like working
+            with modern technologies to create clean, responsive, and user-friendly applications,
+            including EazyTripy, my AI travel planner project.
           </p>
         </div>
       </div>
